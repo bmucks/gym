@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gym/static/css/main.83309522.css",
+    "main.css": "/gym/static/css/main.ddd690eb.css",
     "main.js": "/gym/static/js/main.6cf2acae.js",
     "static/js/453.3d96d69e.chunk.js": "/gym/static/js/453.3d96d69e.chunk.js",
     "static/media/wolf mascot logo OCT2.png": "/gym/static/media/wolf mascot logo OCT2.6e75702d16d40bcf8d24.png",
     "index.html": "/gym/index.html",
-    "main.83309522.css.map": "/gym/static/css/main.83309522.css.map",
+    "main.ddd690eb.css.map": "/gym/static/css/main.ddd690eb.css.map",
     "main.6cf2acae.js.map": "/gym/static/js/main.6cf2acae.js.map",
     "453.3d96d69e.chunk.js.map": "/gym/static/js/453.3d96d69e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83309522.css",
+    "static/css/main.ddd690eb.css",
     "static/js/main.6cf2acae.js"
   ]
 }
